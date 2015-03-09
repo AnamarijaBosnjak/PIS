@@ -11,6 +11,7 @@ namespace vj1
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Bok");
+            Console.WriteLine(":)");
         }
     }
 }
